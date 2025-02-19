@@ -109,12 +109,5 @@ You can modify the following settings:
 - Enhance web scraping capabilities with **proxy support**.
 - Integrate **custom fine-tuned LLMs** for domain-specific QA.
 
----
-## Author
-Developed by [Your Name].
 
-For issues and contributions, open a PR or create an issue in the repository.
-
----
-✅ **Enjoy using your AI-powered retrieval system! 🚀**
 
