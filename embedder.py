@@ -31,6 +31,7 @@ def embed():
                                                 chunk_overlap=50)
 
     chunks = text_splitter.split_documents(documents)
+    total_chunks = len(chunks)
 
     # Load the huggingface embedding model
     model_name = "BAAI/bge-base-en"
